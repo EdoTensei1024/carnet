@@ -193,6 +193,7 @@ class commandeController
         $user = $this->userManager->getUserById($_SESSION['id']);
         $agence = $this->agenceManager->getAgenceById($_SESSION['agence']);
         require "views/client/commande/pdf/report.php";
+//        test git
     }
 
     public function commande_satisfaction_pdf($id)
