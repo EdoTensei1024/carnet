@@ -43,7 +43,7 @@
                         <div class="auth-box">
                             <div class="row m-b-20">
                                 <div class="col-md-12">
-                                    <h3 class="text-left txt-primary">Se connecter à l'application</h3>
+                                    <h3 class="text-left txt-primary">Se connecter</h3>
                                 </div>
                             </div>
                             <hr/>
