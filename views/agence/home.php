@@ -37,7 +37,7 @@ ob_start();
                     <?php if ( $_SESSION['role']=='super_admin')  :?>
                     <a href="<?= URL ?>agence/ajouter"><button class="btn btn-outline-info btn-lg">Ajouter <i class="fa fa-user-plus"></i></button></a>
                     <?php endif;?>
-                    <span>Liste des agences</span>
+                    <span>Liste des agences 1</span>
                 </div>
                 <div class="page-header-breadcrumb">
                     <ul class="breadcrumb-title">
