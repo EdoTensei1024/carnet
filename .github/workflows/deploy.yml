@@ -5,9 +5,6 @@ name: Deploy
 on:
   push:
     branches: ["master"]
-  pull_request:
-    branches: ["master"]
-
 # Authenticate to the the server via ssh
 # and run our deployment script
 jobs:
