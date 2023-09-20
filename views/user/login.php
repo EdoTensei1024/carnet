@@ -53,7 +53,6 @@
                             </div>
                             <div class="input-group">
                                 <input type="password" id="password" class="form-control" placeholder="Entrer votre mot de passe">
-                                <i class="fa fa-eye"></i>
                                 <span class="md-line"></span>
                             </div>
                             <div class="row m-t-25 text-left">
