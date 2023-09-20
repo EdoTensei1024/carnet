@@ -6,4 +6,4 @@ echo "Deployment started ..."
 git pull origin master
 echo "New changes copied to server !"
 
-echo "Deployment Finished! go to https://caenet.florapare.bf"
+echo "Deployment Finished! go to https://carnet.florapare.bf"
