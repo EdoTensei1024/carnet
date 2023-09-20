@@ -4,7 +4,7 @@ name: Deploy
 # pull request events on the master branch
 on:
   push:
-    branches: ["master"]
+    branches: ["main"]
 # Authenticate to the the server via ssh
 # and run our deployment script
 jobs:
