@@ -43,7 +43,7 @@
                         <div class="auth-box">
                             <div class="row m-b-20">
                                 <div class="col-md-12">
-                                    <h3 class="text-left txt-primary">Se connecter Edo</h3>
+                                    <h3 class="text-left txt-primary">Se connecter</h3>
                                 </div>
                             </div>
                             <hr/>
@@ -53,6 +53,7 @@
                             </div>
                             <div class="input-group">
                                 <input type="password" id="password" class="form-control" placeholder="Entrer votre mot de passe">
+                                <i class="fa fa-eye"></i>
                                 <span class="md-line"></span>
                             </div>
                             <div class="row m-t-25 text-left">
